@@ -23,7 +23,7 @@ In particular, the A’s president states directly in the article:
 
     "It’s especially important to have a...visionary ballpark in Oakland because we are a two-team market...I need to compete with the Giants, and I can't..."
 
-Just how bad is the competition with the Giants, and how has the looked
+Just how bad is the competition with the Giants, and how has attendance looked
 historically?
 
 First we visualize attendance of the Oakland Athletics compared to the
